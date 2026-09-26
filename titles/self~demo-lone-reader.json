@@ -1,0 +1,33 @@
+{
+    "year":  2026,
+    "genres":  [
+                   "Action",
+                   "Drama",
+                   "Reincarnation"
+               ],
+    "id":  "self~demo-lone-reader",
+    "type":  "manhwa",
+    "chapters":  [
+                     {
+                         "chapter":  "1",
+                         "title":  null,
+                         "publishedAt":  "2026-09-26T17:47:17Z",
+                         "id":  "ch-8f5a17b1-96e7-4e91-9758-fa26fd974f07",
+                         "pages":  3
+                     },
+                     {
+                         "chapter":  "2",
+                         "title":  null,
+                         "publishedAt":  "2026-09-26T17:47:17Z",
+                         "id":  "ch-0ee1cf81-ea63-4d5f-b062-fff29cb5517e",
+                         "pages":  3
+                     }
+                 ],
+    "description":  "Demo title created by the AniBinge publish pipeline to verify self-hosted titles, chapters and the AI scanlation flow.",
+    "status":  "ongoing",
+    "authors":  [
+                    "AniBinge Pipeline"
+                ],
+    "cover":  "https://cdn.jsdelivr.net/gh/evinvk/anibinge-data@main/images/demo-lone-reader/cover.png",
+    "title":  "The Lone Reader"
+}

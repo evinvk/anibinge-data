@@ -1,0 +1,16 @@
+{
+    "id":  "ch-8f5a17b1-96e7-4e91-9758-fa26fd974f07",
+    "pages":  [
+                  "https://cdn.jsdelivr.net/gh/evinvk/anibinge-data@main/images/demo-lone-reader/ch-8f5a17b1-96e7-4e91-9758-fa26fd974f07/001.png",
+                  "https://cdn.jsdelivr.net/gh/evinvk/anibinge-data@main/images/demo-lone-reader/ch-8f5a17b1-96e7-4e91-9758-fa26fd974f07/002.png",
+                  "https://cdn.jsdelivr.net/gh/evinvk/anibinge-data@main/images/demo-lone-reader/ch-8f5a17b1-96e7-4e91-9758-fa26fd974f07/003.png"
+              ],
+    "chapter":  "1",
+    "volume":  null,
+    "manga":  {
+                  "id":  "self~demo-lone-reader",
+                  "title":  "The Lone Reader"
+              },
+    "titleId":  "self~demo-lone-reader",
+    "title":  null
+}
