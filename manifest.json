@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T19:17:40Z",
+  "updatedAt": "2026-09-26T19:42:46Z",
   "titles": [
     {
       "id": "self~isekai-de-slow-life-wo-ganbou",
@@ -16,8 +16,8 @@
         "Fantasy",
         "Harem"
       ],
-      "chapterCount": 1,
-      "updatedAt": "2026-09-26T19:17:40Z"
+      "chapterCount": 2,
+      "updatedAt": "2026-09-26T19:42:46Z"
     },
     {
       "year": 2026,
@@ -36,6 +36,15 @@
     }
   ],
   "latest": [
+    {
+      "titleId": "self~isekai-de-slow-life-wo-ganbou",
+      "title": "ISEKAI DE SLOW LIFE WO (GANBOU)",
+      "cover": "https://cdn.jsdelivr.net/gh/evinvk/anibinge-data@main/images/isekai-de-slow-life-wo-ganbou/cover/61645c632a758_61645c6457875.jpg",
+      "chapterId": "ch-7c4b7c26-af13-40e4-9db7-76db60f67d66",
+      "chapter": "1",
+      "chapterTitle": null,
+      "publishedAt": "2026-09-26T19:42:45Z"
+    },
     {
       "titleId": "self~isekai-de-slow-life-wo-ganbou",
       "title": "ISEKAI DE SLOW LIFE WO (GANBOU)",
