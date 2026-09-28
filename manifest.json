@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-27T12:19:26Z",
+  "updatedAt": "2026-09-28T05:37:26Z",
   "titles": [
+    {
+      "id": "self~0-percent-bouquet-of-flowers",
+      "title": "0 Percent Bouquet of Flowers",
+      "cover": "https://archive.org/download/anibinge-0-percent-bouquet-of-flowers/cover_manga_84707_image.jpg",
+      "type": "manga",
+      "status": "ongoing",
+      "year": null,
+      "genres": [
+        "Drama",
+        "Yaoi"
+      ],
+      "chapterCount": 2,
+      "updatedAt": "2026-09-28T05:37:26Z"
+    },
     {
       "id": "self~the-villainess-i-possessed-is-raising-hell",
       "title": "The Villainess I Possessed Is Raising Hell",
@@ -64,6 +78,24 @@
     }
   ],
   "latest": [
+    {
+      "titleId": "self~0-percent-bouquet-of-flowers",
+      "title": "0 Percent Bouquet of Flowers",
+      "cover": "https://archive.org/download/anibinge-0-percent-bouquet-of-flowers/cover_manga_84707_image.jpg",
+      "chapterId": "ch-d808679f-8416-4d45-b4f5-796a25e4a9f6",
+      "chapter": "4",
+      "chapterTitle": null,
+      "publishedAt": "2026-09-28T05:35:10Z"
+    },
+    {
+      "titleId": "self~0-percent-bouquet-of-flowers",
+      "title": "0 Percent Bouquet of Flowers",
+      "cover": "https://archive.org/download/anibinge-0-percent-bouquet-of-flowers/cover_manga_84707_image.jpg",
+      "chapterId": "ch-32a00a28-75fc-4c69-88bd-9299c24552d2",
+      "chapter": "8",
+      "chapterTitle": null,
+      "publishedAt": "2026-09-28T05:35:33Z"
+    },
     {
       "titleId": "self~the-villainess-i-possessed-is-raising-hell",
       "title": "The Villainess I Possessed Is Raising Hell",
